@@ -35,3 +35,11 @@ cmd echo "daskl"
 	echo 'dldslsd';
 ?>
 ```
+
+	
+
+```python
+import sqlite3
+	print "sqlite3 version"
+
+```
