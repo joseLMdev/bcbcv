@@ -12,7 +12,7 @@ some
 * `/usr/eeee` OR `/usr/uuu`
 
 
-```js
+```yml
 services:
   web:
     build: .
