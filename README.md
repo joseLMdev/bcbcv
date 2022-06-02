@@ -31,7 +31,7 @@ cmd echo "daskl"
 
 
 ```php
-<?
+<?PHP
 	echo 'dldslsd';
 ?>
 ```
