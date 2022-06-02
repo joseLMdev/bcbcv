@@ -7,3 +7,6 @@ some
 # kgdfk
 
 [aaaa](https://some.io)
+
+
+* `/usr/eeee` OR `/usr/uuu`
