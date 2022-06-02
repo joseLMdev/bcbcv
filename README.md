@@ -23,3 +23,8 @@ services:
   redis:
     image: redis
 ```
+
+
+```console
+cmd echo "daskl"
+```
