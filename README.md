@@ -10,3 +10,16 @@ some
 
 
 * `/usr/eeee` OR `/usr/uuu`
+
+
+```js
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/code
+  redis:
+    image: redis
+```
